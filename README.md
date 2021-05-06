@@ -21,7 +21,7 @@
 ### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanoelalvesjunior)](https://www.linkedin.com/in/emanoelalvesjunior/)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.intagram.com/emanoel_ajr)](https://www.intagram.com/emanoel_ajr)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.intagram.com/emanoel_ajr/)](https://www.intagram.com/emanoel_ajr)
 
 <br />
 
