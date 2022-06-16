@@ -4,7 +4,6 @@
 ## I'm a Student and Developer!!
 
 - 🔭 I'm a curious person and passionate about science!
-- 📖 I’m currently learning everything 😅 (focus on Data Science 🧑‍🔬 and Control Systems 🤖)
 - 🎻 I enjoy to play and study music! 
 
 ---
